@@ -1,0 +1,36 @@
+html {
+    margin: 2rem 0rem 2rem 2rem;
+}
+
+.title {
+    color: purple;
+}
+
+.intro {
+    width: 50%;
+}
+
+.subtitle {
+    color: rebeccapurple;
+}
+
+img {
+    width: 50%;
+    margin: 1rem 1rem 0rem 0rem;
+}
+
+h2 {
+    color: white;
+}
+
+footer {
+    background-color: rebeccapurple;
+    padding: 1rem;
+    margin: 1rem 1rem 0rem 0rem;
+}
+
+button {
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+}
